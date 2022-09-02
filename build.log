@@ -432,6 +432,16 @@ File 'exim4_4.96-1000.dsc' found!
 Build completed!
 --- [SYSTEM] MOVE: '/root/git/src' -> '/root/git/dst'
 Removing old files from repository...
+removed '/root/git/dst/LICENSE'
+removed '/root/git/dst/README.md'
+removed '/root/git/dst/_meta'
+removed '/root/git/dst/_service'
+removed '/root/git/dst/build.log'
+removed '/root/git/dst/exim4_4.96-1000.debian.tar.xz'
+removed '/root/git/dst/exim4_4.96-1000.dsc'
+removed '/root/git/dst/exim4_4.96.orig.tar.xz'
+removed '/root/git/dst/exim4_4.96.orig.tar.xz.sha256'
+removed '/root/git/dst/git.debian.log'
 Moving new files to repository...
 renamed '/root/git/src/_service' -> '/root/git/dst/_service'
 renamed '/root/git/src/_meta' -> '/root/git/dst/_meta'
